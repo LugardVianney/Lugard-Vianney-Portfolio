@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Playfair+Display:wght@500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Montserrat:wght@500;600;700;800&display=swap');
 
 :root{
   --ink:#11171c;
@@ -9,8 +9,8 @@
   --line:#d9d5cd;
   --gold:#a78a56;
   --white:#fff;
-  --serif:"Playfair Display",Georgia,serif;
-  --sans:"DM Sans",Arial,sans-serif;
+  --serif:"Montserrat",Georgia,serif;
+  --sans:"Inter",Arial,sans-serif;
   --max:1180px;
 }
 *{box-sizing:border-box}

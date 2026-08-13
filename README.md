@@ -1,6 +1,6 @@
-# Ogbuehi Lugard — Portfolio
+# Lugard Vianney — Portfolio
 
-A self-contained, responsive HTML portfolio for Ogbuehi Lugard, Digital Marketing & Social Media Specialist.
+A self-contained, responsive HTML portfolio for Lugard Vianney, Digital Marketing & Social Media Specialist.
 
 ## Files
 
